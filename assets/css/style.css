@@ -2,3 +2,27 @@
     margin-top: 100px;
     opacity: .6;
 }
+
+#portfolio-container {
+    margin-top: 56px;
+}
+
+#yelpcamp-block {
+    background-color: rgb(54,71,91);
+}
+
+#rgb-block {
+    background-color: rgb(15,31,119);
+}
+
+#placeholder1-block {
+    background-color: rgb(40,40,40);
+}
+
+#placeholder2-block {
+    background-color: rgb(187,143,101);
+}
+
+#placeholder3-block {
+    background-color: rgb(85,170,117);
+}
