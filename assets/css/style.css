@@ -1,4 +1,4 @@
-#about {
+#about, #contact {
     margin-top: 100px;
     opacity: .6;
 }
@@ -25,4 +25,14 @@
 
 #placeholder3-block {
     background-color: rgb(85,170,117);
+}
+
+h2 a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h2 a:hover {
+    text-decoration: none;
+    color: black;
 }
